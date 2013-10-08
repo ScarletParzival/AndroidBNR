@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/sowmyahariharan/Desktop/workspace - all/workspace/Android/AndroidBNR/15_Localization/.metadata/.plugins/org.eclipse.jdt.core
+3872392535.index
+69709910.index
