@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentManager"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentStatePagerAdapter"/>
+<fullyQualifiedTypeName name="com.bignerdranch.android.criminalintent.CrimeFragment"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="android.support.v4.view.ViewPager.OnPageChangeListener"/>
+</qualifiedTypeNameHistroy>
