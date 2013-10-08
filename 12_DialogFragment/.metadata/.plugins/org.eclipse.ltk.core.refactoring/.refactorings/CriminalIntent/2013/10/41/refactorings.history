@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;REQUEST_CODE&apos; in &apos;com.bignerdranch.android.criminalintent.CrimeFragment&apos; to &apos;REQUEST_DATE&apos;&#x0A;- Original project: &apos;CriminalIntent&apos;&#x0A;- Original element: &apos;com.bignerdranch.android.criminalintent.CrimeFragment.REQUEST_CODE&apos;&#x0A;- Renamed element: &apos;com.bignerdranch.android.criminalintent.CrimeFragment.REQUEST_DATE&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;REQUEST_CODE&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.bignerdranch.android.criminalintent{CrimeFragment.java[CrimeFragment^REQUEST_CODE" name="REQUEST_DATE" references="true" setter="false" stamp="1381254550464" textual="false" version="1.0"/>
+</session>
